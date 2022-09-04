@@ -1,0 +1,33 @@
+#Version
+v1
+
+#Original Filename
+#NES LPF 14khz 1st + 21khz.txt
+
+#Filter Description
+#NES LPF 14khz 1st Order + 21khz 2nd Order
+
+#Sampling Frequency
+7056000
+
+#Base gain
+0.00000594339921775205
+
+#gain scale for X0
+3
+
+#gain scale for X1
+3
+
+#gain scale for X2
+1
+
+#gain scale for Y0
+-2.96116620948349273945
+
+#gain scale for Y1
+2.92300516651660657885
+
+#gain scale for Y2
+-0.96183468120633874854
+

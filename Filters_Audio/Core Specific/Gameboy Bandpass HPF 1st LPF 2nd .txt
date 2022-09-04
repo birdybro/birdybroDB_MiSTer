@@ -1,0 +1,33 @@
+#Version
+v1
+
+#Original Filename
+#Gameboy Bandpass HPF 1st LPF 2nd .txt
+
+#Filter Description
+#HPF 850hz 1st Order combined with 1st order at 7khz
+
+#Sampling Frequency
+7056000
+
+#Base gain
+0.00000000000000000000
+
+#gain scale for X0
+-1
+
+#gain scale for X1
+1
+
+#gain scale for X2
+1
+
+#gain scale for Y0
+-2.99042819609884213961
+
+#gain scale for Y1
+2.98090174555060372086
+
+#gain scale for Y2
+-0.99047352018307788235
+
